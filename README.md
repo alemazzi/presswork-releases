@@ -1,6 +1,6 @@
 # Presswork Releases
 
-Official downloads for [Presswork](https://presswork.it) — the professional editor for writers, screenwriters, and publishers.
+Official downloads for [Presswork](https://presswork.it) — the professional document editor for writers, professionals, and organizations.
 
 ## Latest Release
 
